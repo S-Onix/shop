@@ -14,7 +14,7 @@
 
 
 	<div id="front">
-		<h2>New Item</h2>
+		<h2>NEW ARRIVAL</h2>
 		<center>
 		<div id="bestProduct">
 			<c:forEach items="${newProductList}" var="productVO">
@@ -31,7 +31,7 @@
 	</center>		
 		<div class="clear"></div>
 
-		<h2>Best Item</h2>
+		<h2>WEEKLY BEST</h2>
 		<center>
 		<div id="bestProduct">
 			<c:forEach items="${bestProductList}" var="productVO">
