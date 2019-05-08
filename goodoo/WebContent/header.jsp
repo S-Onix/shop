@@ -21,7 +21,7 @@
     <!--로고 들어가는 곳 시작--->  
     <div id="logo">
       <a href="NonageServlet?command=index">
-        <img src="images/logo.gif" width="180" height="100" alt="nonageshop">
+        <img src="images/logo.png" width="180" height="100" alt="nonageshop">
       </a>  
     </div>
     <!--로고 들어가는 곳 끝-->     
