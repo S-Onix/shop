@@ -161,7 +161,7 @@ th {
 	text-align: center;
 	font-size: 20pt;
 	font-weight: bold;
-	font-family: sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 
 #imgId {
@@ -174,10 +174,10 @@ th {
 }
 
 table#productList {
-	border-collapse: collapse; /* border �궗�씠�쓽 媛꾧꺽 �뾾�빊 */
+	border-collapse: collapse; /* border 占쎄텢占쎌뵠占쎌벥 揶쏄쑨爰� 占쎈씨占쎈퉲 */
 	border-top: 2px solid #333;
 	border-bottom: 1px solid #333;
-	width: 80%; /* �쟾泥� �뀒�씠釉� 湲몄씠 �꽕�젙 */
+	width: 80%; /* 占쎌읈筌ｏ옙 占쎈�믭옙�뵠�뇡占� 疫뀀챷�뵠 占쎄퐬占쎌젟 */
 	margin-left: 100px;
 	margin-bottom: 20px;
 }
@@ -187,7 +187,7 @@ th, td{
 	
 }
 
-#productList td{ /* �뀒�씠釉붿쓽 th �� td 留덉쭊怨� �뙣�뵫 吏��젙 */
+#productList td{ /* 占쎈�믭옙�뵠�뇡遺우벥 th 占쏙옙 td 筌띾뜆彛딀�⑨옙 占쎈솭占쎈뎃 筌욑옙占쎌젟 */
 	padding-right: 40px;
 	text-align: right;
 }
@@ -198,10 +198,10 @@ th, td{
 }
 
 table#orderList {
-	border-collapse: collapse; /* border �궗�씠�쓽 媛꾧꺽 �뾾�빊 */
+	border-collapse: collapse; /* border 占쎄텢占쎌뵠占쎌벥 揶쏄쑨爰� 占쎈씨占쎈퉲 */
 	border-top: 2px solid #333;
 	border-bottom: 1px solid #333;
-	width: 85%; /* �쟾泥� �뀒�씠釉� 湲몄씠 �꽕�젙 */
+	width: 85%; /* 占쎌읈筌ｏ옙 占쎈�믭옙�뵠�뇡占� 疫뀀챷�뵠 占쎄퐬占쎌젟 */
 	margin-left: 100px;
 	margin-bottom: 20px;
 }
@@ -381,9 +381,9 @@ nav#sub_menu ul {
 	margin-left: -20px;
 }
 
-/* �쁺�솕-> 由щ럭 �뀒�씠釉� css */
+/* 占쎌겫占쎌넅-> �뵳�됰윮 占쎈�믭옙�뵠�뇡占� css */
 div.reviewdiv {
-	font-family: "留묒� 怨좊뵓";
+	font-family: 'Roboto', sans-serif;
 	font-size: 15px;
 }
 

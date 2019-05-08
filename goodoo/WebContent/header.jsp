@@ -7,6 +7,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Nonage Shop</title>
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
   <link href="css/shopping.css" rel="stylesheet">
   <script type="text/javascript" src="member/member.js"></script>
  
